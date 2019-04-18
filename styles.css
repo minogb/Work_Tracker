@@ -1,0 +1,48 @@
+
+ .timeEntry{
+ float:left; 
+ border:2px solid;
+ margin:2px;
+ }
+ .removeThisEntry{
+	float:right;
+	margin-left:5px;
+
+ }
+ 
+ .floatRight{
+	float:right;
+ }
+ .floatLeft{
+	float:left;
+ }
+ .timeSetContainer{
+	width:173px;
+ }
+ #userId{
+	width:32px;
+ } 
+ #day{
+	width:128px;
+ }
+ .setTime{
+ }
+ .badInput{
+ border:2px solid red;
+ margin:2px;
+ }
+ table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
